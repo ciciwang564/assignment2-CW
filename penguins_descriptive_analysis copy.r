@@ -17,3 +17,8 @@ barplot(mean_bill$bill_length_mm,
         xlab = "Sex",
         ylab = "Average Bill Length (mm)")
 
+####test regression
+model <- lm(body_mass_g ~ bill_length_mm, data = penguins)
+summary(model)
+
+
