@@ -12,5 +12,5 @@ To reproduce the analysis, open R or RStudio and load the dataset using：
 penguins <- read.csv("/Users/wangminan/Downloads/penguins.csv")
 
 Then copy and run the provided R commands for summary statistics (summary(), aggregate()) and visualizations (barplot() or ggplot2). Ensure that the file path is updated to match your local directory if necessary.
-##EDITING PARKERS FILE#3
+##EDITING CICI'S FILE#3
 ###LOOKS GOOD###
